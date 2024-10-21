@@ -1,4 +1,9 @@
--- Quick little, and scalable SQL accuracy checks between client provided data and `seat count` and `event` tables
+-- data quality check example
+--   Author:                  Kenny V
+--   Desc:                    Just a quick example on math and variables
+--                            This was cool because at the time it really helped identify comparison issues sunglasses.emoji
+
+--   Date/Last Modified Date: June 2022
 
 
 
