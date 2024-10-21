@@ -1,8 +1,12 @@
-#stored proc checker
-# you ever just need to check all the procs on all your servers?   Powershell ftw
+# Stored proc checker
+#   Author:                  Kenny V
+#   Desc:                    This script checks all servers for all procs - can narrow down to a single proc if needed
+#                             
+#   Date/Last Modified Date: Oct 2024
+#   Dependancies - Install-Module dbatools -Scope CurrentUser  - DBA/SQL module        https://github.com/dataplat/dbatools/
 
-#dependancies - DBATOOLS.IO 
-#  notice the invoke-dbaquery command
+
+# you ever just need to check all the procs on all your servers?   Powershell ftw
 
 import dbatools
 
